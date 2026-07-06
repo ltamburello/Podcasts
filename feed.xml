@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[Len's Personal Feed]]></title>
+    <link>https://ltamburello.github.io/Podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Len</itunes:author>
+    <description><![CDATA[Everything I want]]></description>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Music" />
+    
+
+    <item>
+      <title><![CDATA[This Album Still Blows Me Away]]></title>
+      <guid isPermaLink="false">This Album Still Blows Me Away.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 21:33:45 -0400</pubDate>
+      <itunes:duration>00:34:28</itunes:duration>
+      <enclosure url="https://ltamburello.github.io/Podcasts/audio/This%20Album%20Still%20Blows%20Me%20Away.mp3" length="49686252" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Tori Amos’ Incredible Nirvana Connection]]></title>
+      <guid isPermaLink="false">Tori Amos’ Incredible Nirvana Connection.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 21:34:31 -0400</pubDate>
+      <itunes:duration>00:07:43</itunes:duration>
+      <enclosure url="https://ltamburello.github.io/Podcasts/audio/Tori%20Amos%E2%80%99%20Incredible%20Nirvana%20Connection.mp3" length="11178768" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Ukrainian Equipment Resupply (2026) - The Good, Bad & Uncertain from Fighters to Air Defence]]></title>
+      <guid isPermaLink="false">Ukrainian Equipment Resupply (2026) - The Good, Bad & Uncertain from Fighters to Air Defence.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 21:46:10 -0400</pubDate>
+      <itunes:duration>01:02:22</itunes:duration>
+      <enclosure url="https://ltamburello.github.io/Podcasts/audio/Ukrainian%20Equipment%20Resupply%20%282026%29%20-%20The%20Good%2C%20Bad%20%26%20Uncertain%20from%20Fighters%20to%20Air%20Defence.mp3" length="89881349" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
